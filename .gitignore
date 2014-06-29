@@ -1,0 +1,4 @@
+# qt creator files
+CMakeLists.txt.user
+*.autosave
+*.swp
